@@ -1,1 +1,0 @@
-This is an Indicator app for Video Training on ApplePay Automation System.
